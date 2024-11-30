@@ -32,7 +32,7 @@ For further reference, please consider the following sections:
 * [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/3.4.0/maven-plugin)
 * [Create an OCI image](https://docs.spring.io/spring-boot/3.4.0/maven-plugin/build-image.html)
 * [Docker Compose Support](https://docs.spring.io/spring-boot/3.4.0/reference/features/dev-services.html#features.dev-services.docker-compose)
-* [Spring Batch - Reference Documentation] (https://docs.spring.io/spring-batch/docs/5.0.x/reference/html/index.html)
+* [Spring Batch - Reference Documentation](https://docs.spring.io/spring-batch/docs/5.0.x/reference/html/index.html)
 
 ### Docker Compose support
 This project contains a Docker Compose file named `compose.yaml`.
